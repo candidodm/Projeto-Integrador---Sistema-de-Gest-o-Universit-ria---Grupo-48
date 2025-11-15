@@ -1,6 +1,6 @@
 # 🎓 Sistema de Gestão Universitária
 
-**Projeto Integrador - Desenvolvimento de Sistemas Orientado a Objetos**  
+**2ª Entrega do Projeto Integrador - Desenvolvimento de Sistemas Orientado a Objetos**  
 **Grupo 48**  
 **Senac - 2025**
 
