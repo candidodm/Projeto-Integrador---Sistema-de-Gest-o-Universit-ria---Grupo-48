@@ -430,10 +430,11 @@ public class Fornecedor extends PessoaJuridica {
 
 **Grupo 48 - Projeto Integrador**
 
-- Desenvolvimento do sistema
-- Modelagem UML
-- Documentação técnica
-- Prototipação de interfaces
+- Delfino Maurício Cândido
+- José Márcio Canto Oliveira
+- Pedro Henrique Beltrão de Souza
+- Renan Telo de Morais
+- Vinicius Luscri
 
 ---
 
