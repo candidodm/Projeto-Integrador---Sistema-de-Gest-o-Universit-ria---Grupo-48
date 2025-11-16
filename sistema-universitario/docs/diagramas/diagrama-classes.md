@@ -281,24 +281,6 @@ Pessoa (abstrata)
 
 ---
 
-## Padrões de Design Aplicados
-
-1. **Template Method**: Classe abstrata `Pessoa` define estrutura base
-2. **Herança**: Reutilização de código através de hierarquia
-3. **Encapsulamento**: Atributos privados/protected com getters/setters
-4. **Polimorfismo**: Implementação específica de métodos abstratos
-
----
-
-## Conceitos de POO Demonstrados
-
-✅ **Abstração**: Classe `Pessoa` como abstração  
-✅ **Encapsulamento**: Modificadores de acesso (private, protected, public)  
-✅ **Herança**: Hierarquia de classes com especialização  
-✅ **Polimorfismo**: Métodos abstratos com implementações específicas
-
----
-
-**Documento criado em:** Setembro 2025  
+**Documento criado em:** Outubro 2025  
 **Versão:** 1.0  
 **Status:** Aprovado
