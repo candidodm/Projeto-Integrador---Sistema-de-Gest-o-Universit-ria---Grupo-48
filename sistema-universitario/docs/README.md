@@ -56,4 +56,4 @@ Esta documentação serve como referência técnica para:
 ---
 
 **Grupo 48 - Projeto Integrador**  
-**Novembro 2024**
+**Novembro 2025**
