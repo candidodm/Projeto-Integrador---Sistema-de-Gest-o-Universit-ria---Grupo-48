@@ -449,7 +449,7 @@ public class Fornecedor extends PessoaJuridica {
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais como parte do Projeto Integrador do curso de Desenvolvimento de Sistemas Orientado a Objetos.
+Este projeto foi desenvolvido para fins educacionais como parte da Disciplina Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos.
 
 ---
 
